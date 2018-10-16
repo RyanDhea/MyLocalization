@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="app_title">Registrasi</string>
+
+    <string name="form_text">Isikan form di bawah ini untuk mendaftar sebagai pengguna</string>
+    <string name="form_name">Nama Lengkap</string>
+    <string name="form_email">Alamat Email</string>
+    <string name="form_phone">Nomor Telepon</string>
+    <string name="form_pwd">Kata Sandi</string>
+    <string name="form_check">Saya telah membaca dan menyutujui ketentuan tersebut</string>
+
+    <string name="btn_go">Simpan</string>
+    <string name="btn_lang">Ubah Bahasa</string>
+</resources>
